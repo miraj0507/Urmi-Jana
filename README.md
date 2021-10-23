@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Urmi-Jana&label=Profile%20views&color=0e75b6&style=flat" alt="Urmi-Jana" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amrita_kesh" target="blank"><img src="https://img.shields.io/twitter/follow/amrita_kesh?logo=twitter&style=for-the-badge" alt="amrita_kesh" /></a> </p>
 
 
 - 👩🏻‍💻 I’m currently learning **PYTHON & WEB DEVELOPMENT**
@@ -32,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Urmi-Jana&show_icons=true&locale=en&layout=compact" alt="Urmi-Jana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritakesh&show_icons=true&locale=en" alt="amritakesh" /></p>
+<p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/api?username=Urmi-Jana&show_icons=true&locale=en" alt="amritakesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritakesh&" alt="amritakesh" /></p>
