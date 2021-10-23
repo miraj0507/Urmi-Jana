@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Urmi-Jana&show_icons=true&locale=en&layout=compact" alt="Urmi-Jana" /></p>
 
-<p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/api?username=Urmi-Jana&show_icons=true&locale=en" alt="amritakesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Urmi-Jana&show_icons=true&locale=en" alt="amritakesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritakesh&" alt="amritakesh" /></p>
