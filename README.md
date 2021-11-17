@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Urmi</h1>
 <h3 align="center">LEARNER ~ CODER ~ OPEN SOURCE ENTHUSIAST</h3>
-<img align="right" alt="coding" width="400" src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUCy7FIFKKB9CyLfPqsQX5lvU2OHMFHMPGbBRbscEOk9G4qxryUjrlu73AiQq4aKCHw" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Urmi-Jana&label=Profile%20views&color=0e75b6&style=flat" alt="Urmi-Jana" /> </p>
 
 
 
-- 👩🏻‍💻 I’m currently learning **PYTHON & WEB DEVELOPMENT**
+- 👩🏻‍💻 I’m currently learning **PYTHON & Data Analysis**
 
-- 💬 Ask me about **C++ & JAVA**
+- 💬 Ask me about **Frontend Development & JAVA**
 
-- 📫 Feel free to contact me **janaurmi6@gmail.com@gmail.com**
+- 📫 Feel free to contact me **janaurmi6@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
