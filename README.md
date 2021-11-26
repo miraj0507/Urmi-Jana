@@ -4,12 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Urmi-Jana&label=Profile%20views&color=0e75b6&style=flat" alt="Urmi-Jana" /> </p>
 
 
+- **Pre-Final Year CSE Student**
 
-- 👩🏻‍💻 I’m currently learning **PYTHON & Data Analysis**
+- I’m currently learning **PYTHON & Data Analysis**
 
-- 💬 Ask me about **Frontend Development & JAVA**
+- Ask me about **Frontend Development & JAVA**
 
-- 📫 Feel free to contact me **janaurmi6@gmail.com**
+- Feel free to contact me **janaurmi6@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +23,24 @@
 <a href="https://www.hackerearth.com/@amritakesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@amritakesh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amritaraneekesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="amritaraneekesh" height="30" width="40" /></a>
 </p> -->
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
+
+# Skills involve:
+
+###  Languages for Coding:
+
+| ![Python_logo]  |  ![C_logo]   |   ![Cpp_logo] |  ![Java_logo]  | 
+| :-----: | :-------:| :-----:|  :-----:|
+
+### Web Development:
+
+| ![Javascript_logo] | ![HTML_5] |  ![CSS_logo] | ![NodeJS_logo] | 
+|  ![Bootstrap]    |  ![React_logo] |
+### Databases:
+
+ ![MongoDB_logo] 
 
 ## Github stats:
 [![Urmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Urmi-Jana&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -45,6 +61,8 @@
 
 [Cpp_logo]:https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 
+[Java_logo]:https://img.shields.io/badge/Java-5C1F87?style=for-the-badge&logo=java&logoColor=white
+
 [R_logo]:https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 
 [Javascript_logo]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -53,9 +71,13 @@
 
 [CSS_logo]:https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 
+[NodeJS_logo]:https://img.shields.io/badge/NodeJS-3776AB?style=for-the-badge&logo=nodedotjs&logoColor=green
+
+[Bootstrap]:https://img.shields.io/badge/Bootstrap-FFD000?style=for-the-badge&logo=bootstrap&logoColor=purple
+
 [Flask_logo]:https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 
-[Markdown_logo]:https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+[React_logo]:https://img.shields.io/badge/React-0B2343?style=for-the-badge&logo=createreactapp&logoColor=white
 
 [PostgresSQL]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
@@ -63,27 +85,7 @@
 
 [Oracle_logo]:https://user-images.githubusercontent.com/52605586/124901526-b7e7ac00-dfff-11eb-8917-566f99b4c37c.png
 
-
-# Hello 👋
-
-* **Pre-Final Year CSE Student**
-
-# Skills involve:
-
-###  Languages for Coding:
-
-| ![Python_logo]  |  ![C_logo]   |   ![Cpp_logo] |  Java logo  | 
-| :-----: | :-------:| :-----:|  :-----:|
-
-### Web Development:
-
-| ![Javascript_logo] | ![HTML_5] |  ![CSS_logo]  Node JS | 
-| :---: | :---: | :---: |
-|  Bootstrap    |  ![Markdown_logo] |
-### Databases:
-
-| ![PostgresSQL] | ![MySQL_logo] | ![Oracle_logo] |
-| :---:| :---:| :---:|
+[MongoDB_logo]:https://img.shields.io/badge/MongoDB-FC4C02?style=for-the-badge&logo=mongodb&logoColor=green
 
 
 # Reach out to me:
