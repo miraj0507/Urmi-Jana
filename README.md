@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Urmi</h1>
-<h3 align="center">LEARNER ~ CODER ~ OPEN SOURCE ENTHUSIAST</h3>
+<h3 align="center">LEARNER ~ CODER ~ WEB DEV ENTHUSIAST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Urmi-Jana&label=Profile%20views&color=0e75b6&style=flat" alt="Urmi-Jana" /> </p>
 
